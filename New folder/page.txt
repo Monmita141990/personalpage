@@ -1,0 +1,92 @@
+
+
+
+<html lang="en">
+  <head>
+    <title>Resume</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  </head>
+
+  <body>
+
+    <h1>Personal Page</h1>
+     <center><img src="me.jpg" /></center>
+    
+    
+
+    <p>
+      Contact Details: 858-519-2843<br>
+      Email : monmita.choudhury@gmail.com
+    </p>
+
+
+    <hr>
+
+
+    <h2>ACADEMIC QUALIFICATIONS</h2>
+
+    <p>Pursuing M.S. in Computer Science at San Diego State University</p>
+
+    <p>Completed B.Tech Computer Science from Rajasthan Technical University(India) with distinction(75%)</p>
+   
+
+    <h2>TECHNICAL KNOWHOW</h2>
+
+    <ol>
+      <li>Languages: C,C++,Java,Perl,Prolog,Python,JavaScript,HTML,XML,SR,Matlab</li>
+      <li>Databases: Oracle 10g, MySQL</li>
+      
+    </ol>
+
+
+    <h2>INDUSTRIAL TRAINING</h2>
+
+    <h3>Title: : Customer Enquiry Monitoring and Tracking System</h3>
+    <p>
+      Company: Maitri Constructions,Hyderabad
+      Role: Database development and support
+      Database: Oracle 10g
+      Project Scope :
+        The industrial training was focused on areas specific to Computer Science, which involved working on the Maitri Constructions company website and database development and modification. The database used was Oracle 10g and my role was to implement some changes in the database design to meet some enhanced features and draw useful reports. I was primarily involved in:
+<li>1.	Requirements gathering by understanding company objectives and workflow</li>
+<li>2.	Creation, modification and removing tables</li>
+<li>3.	Using aggregate functions and JOINS for drawing reports involving multiple tables</li>
+<li>4.	Using XML and spreadsheet for data loading</li>
+<li>5.	Transactional mode, Auto commit, and ROLLBACK</li>
+<li>6.	Writing triggers, procudures, and using packages</li>
+<li>7.	How to use Oracle Application Express to build a web application</li>
+</p>
+
+    <h3>PERSONAL SKILLS</h3>
+    <p>
+<li>	Comprehensive problem solving abilities</li>
+<li>	Excellent verbal and written communication skills</li>
+<li>	Willingness to learn, team player, self-motivated</li>
+</p>
+
+
+    <h2>ACHIEVEMENT AND EXTRA-CURRICULAR ACTIVITIES</h2>
+
+    
+    <p>
+  <li>	Stood first in table- tennis competition in college</li>
+  <li>  Stood second in quiz contest in college</li>
+  <li>	Won prizes in college-level spelling and essay competitions</li> 
+  <li>  Event organizer in college annual-day functions and other technical events</li>
+
+    <p>
+
+    <h3>
+     <p>Current address: 3445 Lebon Dr, Unit 1218, San Diego 92122.</p> 
+                                          
+     Declaration<br>
+     I hereby declare that above information is correct to the best of my knowledge and belief.<br>
+	
+     Place: San Diego, CA<br>			         
+     Monmita Choudhury<br>
+</h3>
+
+     
+
+  </body>
+</html>
